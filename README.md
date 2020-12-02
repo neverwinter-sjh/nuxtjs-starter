@@ -1,4 +1,4 @@
-# project-front-nuxt
+# nuxtjs-starter
 
 ## Build Setup
 
