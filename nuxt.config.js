@@ -1,4 +1,4 @@
-const options = {
+const configs = {
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
     title: 'project-front-nuxt',
@@ -22,7 +22,7 @@ const options = {
   plugins: [],
 
   // Auto import components (https://go.nuxtjs.dev/config-components)
-  components: true,
+  components: false,
 
   // Modules for dev and build (recommended) (https://go.nuxtjs.dev/config-modules)
   buildModules: [
@@ -43,4 +43,4 @@ const options = {
   build: {}
 };
 
-export default options;
+export default configs;
